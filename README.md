@@ -1,6 +1,6 @@
 # Indian-Sign-Language-Gesture-Recognition
 
-Here i am sharing the link of Isolate Indian Sign Language dataset (https://drive.google.com/open?id=1MfxthK6NTaPI5jJi6WqsxuPrTCYqhDxT) and Continuous Indian Sign Language dataset (https://drive.google.com/open?id=1sXGTtnPqPAxw6yhPZw-S0ppMJdrRLUiK)
+Here i am sharing the link of Isolate Indian Sign Language gesture dataset (https://drive.google.com/open?id=1MfxthK6NTaPI5jJi6WqsxuPrTCYqhDxT) and Continuous Indian Sign Language gesture dataset (https://drive.google.com/open?id=1sXGTtnPqPAxw6yhPZw-S0ppMJdrRLUiK)
 
 If you use our dataset for publishing results, please cite the following paper:
 
